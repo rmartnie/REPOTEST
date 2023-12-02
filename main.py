@@ -8,7 +8,7 @@ def main(page:Page):
     )
     content_1=Container(
         content=Column([
-            Text("Hello From Flet basic ...", size=40)
+            Text("Hello From Flet basic ... cambio", size=40)
         ])
     )
     page.add(appbar, content_1)
